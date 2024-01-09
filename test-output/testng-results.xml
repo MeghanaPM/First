@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T11:55:06 IST" name="Default suite" finished-at="2024-01-09T11:55:17 IST" duration-ms="11445">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T11:55:06 IST" name="Default test" finished-at="2024-01-09T11:55:17 IST" duration-ms="11445">
+      <class name="testCase.loginTestcase">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:testCase.loginTestcase@77fbd92c]" started-at="2024-01-09T11:55:06 IST" name="initalize" finished-at="2024-01-09T11:55:13 IST" duration-ms="7041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:testCase.loginTestcase@77fbd92c]" started-at="2024-01-09T11:55:13 IST" name="verifyLoginWithInvalidCredentials" finished-at="2024-01-09T11:55:17 IST" duration-ms="4370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+      </class> <!-- testCase.loginTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
